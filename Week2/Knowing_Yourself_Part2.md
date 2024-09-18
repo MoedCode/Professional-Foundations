@@ -22,3 +22,33 @@ https://www.jobstreet.com.my/career-resources/plan-your-career/what-is-the-best-
 
 After you have taken the test, share your results (or even just one thing about your results) and your reflections with your Squad on The Portal. What felt accurate? What surprised you?
 
+# Additional Self-Assessments [Optional]
+
+via GIPHY
+
+Having a deeper understanding of yourself - your personality, preferences, skills, and areas for growth - is a powerful thing. Here are some more assessments we recommend you take. These are optional but likely informative and fun. The better you know yourself, the more meaningfully you can map your career trajectory and engage with potential employers or clients.
+
+Learn more about your current skills through these fun & helpful quizzes.
+
+Can you take criticism?: Take this test to find out just how well you deal with criticism on the job.
+
+Do you have leadership potential?: Through this test, you’ll be able to pinpoint some of the things that might make you a good leader.
+
+Feel free to share an interesting element you discover with your squad, and see what everybody else is saying.
+
+# No! We are not talking about your social media pics, so you can put that camera away, read on and understand our version of PICS.
+
+Self-awareness is a lifelong journey, and the “picture of you” in your mind becomes clearer and clearer as you collect more experiences and continue on your personal journey.
+
+But how, then, can you make decisions on the first steps of your careers, if you are still uncertain as to what your life paths should be, or what your strong points are?
+
+
+A tool that you can use here to help determine what you like and what you are good at is called “P.I.C.S.” – Passions, Interests, Causes and Strengths.
+
+Passions: What would you get out of bed for in the morning if money wasn’t an issue?
+Interests: What are you most curious about?
+Causes: What keeps you up at night?
+Strengths: What are your superhero powers?
+Answering these will help you to continue to interrogate and evaluate the path you want to take and the difference you want to make to society as a young leader and change-maker.
+
+Okay, ready to give it a try? Let’s work on your PICS in the activity on the next page.
