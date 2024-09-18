@@ -14,9 +14,9 @@ based on the Myers-Briggs type sorter, which evaluates your personality on 4 dim
 Here is what you need to do:
 
 Please take the personality test here:
-```link
-[https://www.16personalities.com/](https://www.16personalities.com/)
-```
+[```link
+\[https://www.16personalities.com/\](https://www.16personalities.com/)
+```](https://www.16personalities.com/)
 
 Based on the outcome – and as a fun read – take a look at this article by Job Street Malaysia:
 ```link
