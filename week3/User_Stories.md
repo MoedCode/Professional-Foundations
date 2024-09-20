@@ -52,9 +52,9 @@ A company called FizzBuzzy does e-commerce sales in Tanzania. Their users compla
 
 
 
-# Quiz __Question__s
+# Quiz **Question**s
 
-__Question__ #0
+**Question** #0
 Which of the following describes a user story?
 
 
@@ -69,7 +69,7 @@ A detailed description of the technical implementation of a feature.
 
 A brief, high-level description of a desired feature from the user’s perspective.
 
-__Question__ #1
+**Question** #1
 Which of the following is true about user stories?
 
 
@@ -84,7 +84,7 @@ They capture the user’s needs and desired outcomes.
 
 They are primarily written by developers.
 
-__Question__ #2
+**Question** #2
 What is the purpose of acceptance criteria?
 
 
