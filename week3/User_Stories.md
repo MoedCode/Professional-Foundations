@@ -50,10 +50,11 @@ Create a user story and acceptance criteria for the following situation:
 
 A company called FizzBuzzy does e-commerce sales in Tanzania. Their users complain that after buying goods on the FizzBuzzy website, they can only buy individual products and check out one at a time, instead of being able to place several items in one cart before checking out.
 
-```md
 
-# Quiz **Questions
-**Question #0
+
+# Quiz __Question__s
+
+__Question__ #0
 Which of the following describes a user story?
 
 
@@ -68,7 +69,7 @@ A detailed description of the technical implementation of a feature.
 
 A brief, high-level description of a desired feature from the user’s perspective.
 
-**Question #1
+__Question__ #1
 Which of the following is true about user stories?
 
 
@@ -83,7 +84,7 @@ They capture the user’s needs and desired outcomes.
 
 They are primarily written by developers.
 
-**Question #2
+__Question__ #2
 What is the purpose of acceptance criteria?
 
 
@@ -97,5 +98,3 @@ To ensure that the user story is implemented correctly.
 
 
 To provide a detailed description of the technical solution.
-
-```
