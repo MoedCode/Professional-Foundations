@@ -491,6 +491,29 @@ To ensure that all sources are cited in APA / MLA format.
 
 Ready
 Please make sure to validate all quiz questions before moving on to project tasks
-# _______________________________________________________________#
+# _______________________________________________________________
 
-#
+# Tasks
+0. Check Your Understanding
+mandatory
+Score: 0.0% (Checks completed: 0.0%)
+
+Activity: Planning Your Research: Section C of Week #3 Milestone Worksheet
+THIS ACTIVITY FORMS PART OF YOUR WEEK #3 MILESTONE SUBMISSION.
+
+So now let’s go back to the 3 research questions that you crafted as part of your Week #3 Milestone, Section B. It’s time to take these questions several steps further, do some research and test each of your hypotheses.
+
+Here is what you need to do to complete this activity.
+1. Have your completed Milestone # 3 worksheet open so you can easily reference your Problem Statement, research questions and hypotheses.
+
+2. On the same worksheet you can use Section C to organize, plan and conduct your research. Open your personal copy for Week #3 Milestone Worksheet to Section C to see this part. Do not create a new copy, use the same one you’ve been working on up till now.
+
+3. You will go through the Research Methodology steps you have just learned, and assess how you plan to approach your web research for your 3 research questions from your Week #3 Milestone worksheet.
+
+4. Only complete Part 1 of the Section C.
+
+Later, you will complete Part 2 of the worksheet and use your findings to build a mini-research report.
+
+(We hope that you are saving all these resources we are sharing in a specific ALX Foundations Program Folder on Drive. If you haven’t been doing so, now is a good time to stop and get organized. It will be super helpful when you have to review something later, whether in this program or your professional life.)
+
+Have you completed the activity to fill out your research plan details on your copy of the Week #3 Milestone Section C, Part 1?
