@@ -1,4 +1,5 @@
 # Intro to Week 4
+![alt text](image-3.png)
 Welcome to Week 4, Learners!
 This is the final week in “Month 1” of the program! We’re almost into the transition week!
 
@@ -178,5 +179,46 @@ bookmark-ribbon
 Got a question about the program content here on Savanna or any program-related questions? Ask it on Slido and a community ambassador will get back to you.
 
 Add your question by clicking here.
-https://app.sli.do/event/s5fWLE1GQFaKaCay6ne43P
+https://app.sli.do/event/s5fWLE1GQFaKaCay6ne43P.
 
+
+ # Overview:
+ It sounds like Week 4 of the **Professional Foundations** program is packed with some exciting and vital learning experiences! Here’s a breakdown of what to focus on and how to tackle this week effectively:
+
+### **Week 4 Overview**:
+- **Storytelling & Communication**: Building on Week 3, you’ll be crafting a story and a presentation that leaves a lasting impression. Focus on the importance of structure—beginning, middle, and end—and make sure your story connects emotionally with your audience using **ethos, pathos, and logos**.
+
+  For extra reading on storytelling techniques, you can check out *"Made to Stick"* by Chip Heath and Dan Heath, which explains how to make ideas more memorable.
+
+- **Daily 3 – Meditation**: Incorporating meditation as the final piece in your Daily 3 practices will help improve focus and reduce stress. If you're new to meditation, apps like **Headspace** or **Calm** can provide guided sessions.
+
+  You might find the research article *"The Role of Meditation in Enhancing Emotional Intelligence"* useful to understand the long-term benefits of incorporating meditation into your routine.
+
+- **Technical Writing & Goal Setting**: This week introduces writing foundations, including **goal-setting techniques** like SMART goals. When setting both personal and professional goals, it’s important to create objectives that are **specific, measurable, achievable, relevant, and time-bound**. This will help you keep track of your progress throughout the program.
+
+  I’d recommend reviewing *"Writing in the Technical Fields"* by Mike Markel for detailed advice on technical writing.
+
+### **Milestone 4 & Test 4**:
+- Your **Week 4 Milestone** is crucial. You’ll be preparing a slide deck to define a problem based on a Global Common Good Objective (GCGO), its impact, and your solution. Make sure your slides are clear and concise.
+
+  For some insights on creating impactful presentations, check out *Nancy Duarte's "Resonate: Present Visual Stories that Transform Audiences"*.
+
+- The **Week 4 Test** will cover:
+  - Problem Solving and Work Planning
+  - Best Practices in Writing
+  - Storytelling Techniques
+  - SMART Goals
+
+  If you need extra resources, **Savanna** will likely have plenty of reading material, but you might also benefit from exploring *"The Pyramid Principle"* by Barbara Minto, which delves into structured thinking and communication.
+
+### **Peer Activities**:
+- **Storytelling Activity**: Writing a 400-500 word story and sharing it with your peers is not just a fun exercise but also a way to sharpen your storytelling skills. Think about a time when a specific challenge or project taught you something profound.
+
+- **Work Plan Activity**: This focuses on planning ahead for your upcoming team projects. Ensure that you create a **solid work plan** using tools like Trello or a Kanban board to keep you organized. The peer feedback will be critical in refining your approach.
+
+### **Next Steps**:
+Make sure you keep up with the milestones and tests from previous weeks, especially since falling behind might lead to unenrollment. If you need help, reach out to peers or use **Slido** for community ambassador support.
+
+Lastly, stay consistent with your **Morning Pages** and **meditation** practice, as they will not only benefit you during this course but also beyond.
+
+Good luck with Week 4, and remember: pushing your limits is where the real growth happens! Let me know if you need any further resources.
