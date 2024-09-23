@@ -815,6 +815,7 @@ So, why don't you give that a go?
 A and B are  talking about what C thinks of D.
 See you next time
 ```
+
 # Tasks
 0. Communicating a Story
 mandatory
@@ -831,3 +832,35 @@ Dive into the effects of the problem on each group, exploring aspects like lifes
 Paint a vivid picture of how the impact manifests in their everyday lives, capturing the challenges and obstacles they face.
 Highlight the transformative effects on their quality of life and outcomes, illustrating the significance of the problem for each stakeholder group.
 Remember to proofread your reflection for grammar and spelling.
+
+TASK: [![alt text](image-11.png) Problem Impact Assessment](https://docs.google.com/document/d/1V0XfDF3dUVaSXjpxbPRC28apiviGR1kK0ZoqG6dBy_Q/edit?usp=sharing)
+# Overview :
+Here’s a breakdown of the key points from "The Power of Storytelling" discussion:
+
+1. **Storytelling as a Tool**
+   Storytelling has the ability to convey powerful messages that can inspire action and create change. When used effectively, a single story can:
+   - **Inspire individuals to join a cause:** Stories emotionally engage people, helping them connect with the mission on a personal level.
+   - **Encourage donors to fund projects:** By illustrating the human impact of a cause, stories motivate donors to contribute.
+   - **Illustrate organizational impact:** A well-told story can clearly show how an organization is making a difference, fostering trust and support.
+
+2. **Why Stories Are Effective in Illustrating Problems**
+   Stories offer several key advantages in helping people understand and connect with complex problems:
+   - **Relatability:** Stories bring problems down to a personal, relatable level, making them more accessible to the audience.
+   - **Empathy/Sympathy:** By highlighting the real-life consequences of an issue, stories evoke emotional responses that can drive action.
+   - **Concreteness:** Unlike abstract statistics, stories provide concrete examples of how large issues affect everyday life, making them easier to understand and remember.
+
+3. **The Importance of Connection**
+   Many people may not feel connected to the same problems we are passionate about. Storytelling helps bridge this gap by grounding issues in shared human experiences. Through stories, we can show how these problems matter and affect lives, making it easier for others to care.
+
+4. **Sangu Delle's Story**
+   - **Personal Narrative:** Sangu uses his personal experience with anxiety and the stigma surrounding mental health in Africa to engage his audience. His story makes the issue of mental health relatable and human.
+   - **Breaking Stereotypes:** He challenges the cultural stigma around mental illness in Africa, particularly the idea that mental struggles make one weak, emphasizing that vulnerability is a strength.
+   - **Call to Action:** By sharing his own experience and his friend's battle with schizophrenia, Sangu encourages others to speak up and seek help, aiming to end the stigma around mental health.
+
+5. **Kakenya Ntaiya’s Story**
+   - **Evoking Emotion:** Kakenya shares her journey from being a young girl in a Maasai community, facing early marriage and female circumcision, to building a school for girls in her village. Her choice of words and vivid descriptions evoke strong emotions in the audience.
+   - **Transformation Through Education:** Her story highlights the transformative power of education, not only for herself but for the 125 young women whose destinies were altered by her efforts.
+   - **Inspiring Change:** Kakenya's story demonstrates how a personal experience of oppression can fuel a larger movement for change, inspiring others to challenge harmful traditions and advocate for education and women's rights.
+
+6. **Maximizing Impact Through Storytelling**
+   Leaders and changemakers use storytelling to raise awareness, create emotional connections, and inspire others to take action. The personal nature of these stories helps audiences grasp the real-world implications of larger societal problems, making them more likely to engage, support, or join the cause.
