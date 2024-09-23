@@ -385,3 +385,5 @@ The **audience** for this story might be potential donors or investors who want 
 By presenting the story of Lydia, you appeal to **pathos** by showing the emotional and personal toll of financial illiteracy. **Ethos** comes from demonstrating that the proposed solution (financial literacy program) is a proven way to address the problem. Lastly, **logos** can be used by including facts and statistics on how financial literacy programs have improved the lives of individuals in similar situations, offering logical support for the story.
 
 With these elements, you craft a powerful narrative that motivates your audience to take action.
+
+
