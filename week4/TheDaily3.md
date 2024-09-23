@@ -85,3 +85,19 @@ Did you accept the challenge to complete 7 days of meditation in a row?
 If you accepted the challenge, which meditation video, recording or resource did you choose to guide you for these 7 days?
 If you did not accept the challenge, what were the reasons why?
 Share the answers to these questions, with your peers on The Portal. Also see what your peers are saying!
+
+
+# Overview:
+This section is about introducing and encouraging a new habit as part of the "Daily 3" routine: **Meditation**. It explains the importance and benefits of mindfulness meditation, which involves focusing attention to gain awareness of one's thoughts and feelings. The module highlights:
+
+1. **Why Meditate?**: Meditation helps reduce negativity, stress, and anxiety, while increasing positivity, focus, and overall well-being. The section includes a video explaining these benefits and asks you to consider what meditation reduces and increases.
+
+2. **Learning to Meditate**: Meditation, like any new skill, requires practice. It may feel difficult at first, but with consistent effort, you can become more comfortable. The module encourages a 7-day challenge to meditate for 5 minutes daily, providing guided videos and apps like Waking Up, Calm, and Headspace.
+
+3. **Meditation Testimonials**: A video is shared that includes testimonials from young professionals about the benefits of meditation, such as improved focus, emotional control, and productivity. The video also suggests meditation apps.
+
+4. **Meditation Challenge**: You are challenged to incorporate meditation into your daily routine alongside the other "Daily 3" habits (Movement and Morning Pages). The module provides a list of 5-minute meditation videos and apps to guide you, and suggests practicing at the same time every day for 7 days straight.
+
+At the end of the month, you'll be asked to share how the practice affected your daily life.
+
+Finally, you're encouraged to share your experience with the challenge on the portal and see how others are responding.
