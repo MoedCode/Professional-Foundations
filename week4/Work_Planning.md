@@ -816,3 +816,60 @@ To ensure efficient utilization of resources
 
 
 To eliminate obstacles and challenges in the project
+
+# :: OVERSEW >> :
+Looking ahead to Month 2 of your program, the focus shifts towards team collaboration and project management. This month is packed with activities that will demand efficient planning and coordination with peers. Here’s a breakdown of the key tasks and milestones you’ll be handling:
+
+1. **Project Scope Definition:**
+   - Your team will start by selecting a specific problem to address.
+   - You’ll conduct research to understand the problem's impact, using data visualization to support your findings.
+   - A clear project scope statement will be drafted, outlining project objectives, deliverables, constraints, and assumptions.
+
+2. **Wireframing and Prototype Creation:**
+   - The team will brainstorm and ideate on possible solutions, eventually deciding on one that uses technology.
+   - You’ll work together to create wireframes or even a 3D prototype for the proposed solution.
+   - User feedback will be gathered through interviews to refine the prototype.
+
+3. **Final Presentation and Video Pitch:**
+   - A final video showcasing the prototype and a pitch for further development will be created.
+
+4. **Career Development:**
+   - The final week of Month 2 will focus on personal branding, including writing resumes, LinkedIn profiles, and preparing for job interviews.
+
+---
+
+### **Steps for Work Planning (Project Gantt Chart):**
+
+To keep track of these activities, you can use a work plan (Gantt Chart) to map out tasks, deadlines, and ownership. Here’s a simplified example for Week 5-8:
+
+| Category     | Action Item/Deliverables                              | Owner | Resources       | Start Date  | End Date    | Status      |
+|--------------|-------------------------------------------------------|-------|-----------------|-------------|-------------|-------------|
+| Milestone    | Decide on problem statement                           | Team  | Data, Research  | 16-Sep-24   | 20-Sep-24   | Not started |
+| Milestone    | Conduct research and create data visualizations        | Team  | Laptop, Software| 21-Sep-24   | 25-Sep-24   | Not started |
+| Milestone    | Brainstorm solutions and finalize an idea              | Team  | Brainstorm tool | 26-Sep-24   | 30-Sep-24   | Not started |
+| Milestone    | Create wireframe or prototype                          | Team  | Design Software | 1-Oct-24    | 5-Oct-24    | Not started |
+| Milestone    | Conduct user interviews and gather feedback            | Team  | Time, Resources | 6-Oct-24    | 10-Oct-24   | Not started |
+| Milestone    | Refine prototype based on feedback                     | Team  | Design Software | 11-Oct-24   | 15-Oct-24   | Not started |
+| Milestone    | Create video pitch showcasing solution                 | Team  | Video Editing   | 16-Oct-24   | 19-Oct-24   | Not started |
+
+---
+
+### **Project Scope Statement Essentials:**
+
+1. **Project Justification:**
+   - Why is the project important? Define the problem and its significance based on your research.
+
+2. **Product Scope:**
+   - Detail the specific features of your proposed solution (e.g., wireframe, prototype).
+
+3. **Acceptance Criteria:**
+   - What conditions need to be met for the project to be considered successful?
+
+4. **Deliverables:**
+   - Key milestones (wireframes, user feedback, video pitch) that need to be delivered.
+
+5. **Exclusions, Constraints, Assumptions:**
+   - Identify what’s not included, any project blockers, and key assumptions for successful completion.
+
+By carefully planning these steps, you’ll be in a great position to manage the collaborative workload in Month 2! Feel free to use the project scope template to stay aligned with your team and track progress effectively.
+
