@@ -409,6 +409,107 @@ References:
 https://smartblogger.com/smart-goal-examples/
 
 ```
+# :__SECTION_OVERVIEW__:
+Here's a summarized and organized version of the content on goal setting and the SMART framework:
+
+---
+
+# Goal Setting Introduction
+
+Reflect on your journey so far:
+1. **Defined Non-Negotiable Values**: Identified what matters most to you.
+2. **Mission Statement**: Clarified what you want to achieve.
+3. **Problem Statement**: Researched and finalized a specific problem to address.
+
+### Key Connections
+- **Values, Mission, and Problem Statement**: How do they relate?
+- **Actionable Steps**: Use these insights to formulate actionable goals.
+
+**Goals** are the link that turns your reflections into concrete actions.
+
+---
+
+# Understanding SMART Goals
+
+### What Are SMART Goals?
+SMART is an acronym that helps in setting effective goals:
+
+- **Specific**: Clear and well-defined. Avoid vagueness.
+- **Measurable**: Quantifiable criteria to track progress.
+- **Achievable**: Realistic and attainable goals.
+- **Relevant**: Align with broader life objectives.
+- **Time-bound**: Set deadlines to create urgency.
+
+### Importance of SMART Goals
+- They provide a roadmap for both setting and assessing progress.
+- Help prioritize tasks and manage time effectively.
+
+---
+
+# Examples of SMART Goals
+
+1. **Improve Time Management**
+   - **Specific**: Use a planner for task organization.
+   - **Measurable**: Allocate time blocks for tasks.
+   - **Achievable**: Plan daily the night before.
+   - **Relevant**: Boost productivity and reduce stress.
+   - **Time-bound**: Implement for 4 weeks.
+
+2. **Get More Sleep**
+   - **Specific**: Establish a bedtime routine.
+   - **Measurable**: Aim for 7 hours of sleep nightly.
+   - **Achievable**: Consistent bedtime helps.
+   - **Relevant**: Enhances mood and energy.
+   - **Time-bound**: Follow for 1 month.
+
+3. **Lose Weight**
+   - **Specific**: Lose 20 pounds through diet and exercise.
+   - **Measurable**: Weekly weight tracking.
+   - **Achievable**: 1 pound per week is realistic.
+   - **Relevant**: Improves health and energy.
+   - **Time-bound**: Achieve in 20 weeks.
+
+4. **Save Money**
+   - **Specific**: Save $1,000 for emergencies.
+   - **Measurable**: Save $100 monthly.
+   - **Achievable**: Reduce discretionary spending.
+   - **Relevant**: Provides financial security.
+   - **Time-bound**: Complete in 10 months.
+
+5. **Enhance Productivity**
+   - **Specific**: Use the Pomodoro Technique.
+   - **Measurable**: Complete four sessions daily.
+   - **Achievable**: Minimize distractions.
+   - **Relevant**: Increases output and reduces stress.
+   - **Time-bound**: Implement for 2 weeks.
+
+6. **Strengthen Relationships**
+   - **Specific**: Plan weekly date nights.
+   - **Measurable**: One date night per week.
+   - **Achievable**: Adjust schedule for time.
+   - **Relevant**: Enhance connection with a partner.
+   - **Time-bound**: For 3 months.
+
+---
+
+### Summary
+To set effective goals:
+- Be **specific**.
+- Ensure they are **measurable**.
+- Make them **achievable**.
+- Keep them **relevant**.
+- Define a **time frame**.
+
+By using the SMART framework, you can turn your reflections into actionable goals, ensuring they are clear and focused on your ultimate objectives.
+
+Now, go ahead and create your own SMART goals!
+
+---
+
+Feel free to adjust any sections based on your specific needs or focus areas!
+# __OVERVIEW_END__
+
+
 # The Backward Induction Method
 
 ![alt text](image-21.png)
@@ -477,7 +578,9 @@ Facebook:   / drjustinsung
 LinkedIn:   / justin-sung
 X: https://x.com/drjustinsung
 ```
+
 ***Transcript***:
+
 ```txt
 in 334 days I went from being lost and
 confused about what type of future I
@@ -1182,3 +1285,43 @@ I want to make more friends.
 
 Ready
 Please make sure to validate all quiz questions before moving on to project tasks
+
+# SMART Goals
+ Weight: 0
+ Project over - took place from Sep 16, 2024 4:00 AM to Sep 23, 2024 4:00 AM
+ An auto review will be launched at the deadline
+In a nutshell…
+Auto QA review: 1.0/1 mandatory
+Altogether:  100.0%
+Mandatory: 100.0%
+Optional: no optional tasks
+
+
+bookmark-ribbon
+There is a task at the end of this module. To access the task, you need to complete the quiz.
+
+If you get any question wrong, you will get an error message. If that happens, go back to the questions highlighted and choose the right answer.
+
+Quiz questions
+Great! You've completed the quiz successfully! Keep going! (Show quiz)
+Tasks
+0. End of Module
+mandatory
+Score: 100.0% (Checks completed: 100.0%)
+
+This activity forms part of your Week #4 Milestone submission.
+
+Take out your Week #2 Milestone submission, where you defined your mission statement. We will using that as the base to build upon.
+Create your own copy of the Goal Setting Worksheet. You will use this worksheet to follow the steps to ultimately define some short term goals for yourself.
+You’ll start by first copy pasting, or redefining, your mission statement.
+Use your mission statement to define the kind of person needed to complete that mission or achieve that vision. You will define this in 4 elements discussed in the previous video:
+Skills: What kinds of skills would this person need to be able to achieve the mission? E.g. leadership capabilities, command over programming languages etc.
+Attributes: What kinds of attributes does this person need to have to be able to achieve the mission? E.g. do you need to be someone who is calm and reflective, a go-getter, action oriented etc.
+Assets: What resources will be needed for the person to be able to achieve this mission? E.g. access to physical resources like books, land etc., time required to effectively work on the project, money needed to get things going, people in your network that can help you get things done etc.
+Knowledge: What knowledge must the person have in order to be able to achieve this mission? E.g. business knowhow, understanding of psychology, how to build or leverage AI etc.
+Conduct a Force Field Analysis of where you are and where you need to be:
+Resources Available: Reflect on yourself and your situation to determine which of the items you’ve mentioned in step 2 are already there with you. These don’t have to be absolutely complete, and can be partially available, e.g. you may not have all the skills of being a great programmer, but you may have some basic stuff figured out. List these resources out in detail below.
+Barriers: Reflect on the list you’ve created for step 2, and identify the barriers that you need to overcome in order to become the person who can fulfil the mission you’ve set for yourself. These can be any specific degrees that you need to acquire, funding that you need to find, specific skills or attributes that you are yet to develop etc. List these barriers out in detail below.
+Use the information you’ve gathered so far to now determine your goals, for different stages in your life. Since this is just an exercise, you’re only required to do certain levels with only 2 goals for each stage. You can however, do more stages and more goals per stage to be thorough if you want. At each stage, you can think of how to get to the next stage to create your goal, e.g if your 20 year goal is to create a business, then you need to have business knowhow for that, so your 10 year goal should be to either have an MBA or 7+ years of experience in that business field.
+Save the completed worksheet in your Google Drive.
+
