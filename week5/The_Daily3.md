@@ -80,4 +80,4 @@ Remember, YOU are the master of your own ALX journey!
 Continue to cultivate curiosity towards new skills, demonstrate proactivity in acquiring them, and take ownership of your own learning experience. As we said before,this T-shirt might just be the right fit for you.
 
 
-
+![alt text](image.png)
