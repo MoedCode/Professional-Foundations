@@ -21,6 +21,7 @@ Qualitative research: Focuses on observations. usually based on interviews. Help
 References:
 
 https://youtu.be/kQ_6faxhyIw
+
 ***Desorption***
 ```md
 226,700 views  7 Apr 2021  Google UX Design Certificate
@@ -486,45 +487,12 @@ You might have invested hours into designing a new feature
 but then learn that the feature doesn't really
 address a user problem.
 It's easy to keep working on a design
-that you've invested time into.
-But ultimately, you need to focus on work
-that positively impacts users.
-To avoid the sunk cost fallacy, break down your project
-into smaller phases and then outline designated points
-where you can decide whether to continue or stop.
-This allows you to go back based on new insights
-before the project gets too far along.
-You're now familiar with the most common forms
-of bias in user research.
-It's important to know that there are other biases we
+that you've invested time into.But ultimately, you need to focus on workthat positively impacts users.To avoid the sunk cost fallacy, break down your projectinto smaller phases and then outline designated pointswhere you can decide whether to continue or stop.This allows you to go back based on new insightsbefore the project gets too far along.You're now familiar with the most common formsof bias in user research.It's important to know that there are other biases we
 haven't covered here.
-Bias is a limitation that extends well
-beyond the fields of UX design and user research.
-They can creep into the ways we make friends,
-manage projects at work, and communicate
-with family members.
-Now that you know about these biases,
-you might even start noticing them in your daily life.
-The more that identifying bias becomes a habit,
-the better you'll get at avoiding bias
-in your design process.
-As UX designers, we want to prevent biases
-from getting in the way of accurate research.
-You can always refer back to the glossary
-if you need a refresher about these biases
-and their definitions.
-Keep these tips in mind for overcoming biases
-and you'll be on your way.
-DAVE: Congratulations on finishing this course
-from the Google UX Design Certificate.
-You can access the full experience, including
-job search help, and start to earn your certificate
-by clicking on the icon or the link in the description below.
-Watch the next video in the course by clicking here
-and subscribe to our channel for more from upcoming
+Bias is a limitation that extends well beyond the fields of UX design and user research. They can creep into the ways we make friends, manage projects at work, and communicate with family members. Now that you know about these biases, you might even start noticing them in your daily life. The more that identifying bias becomes a habit, the better you'll get at avoiding bias in your design process. As UX designers, we want to prevent biases from getting in the way of accurate research. You can always refer back to the glossary if you need a refresher about these biases and their definitions. Keep these tips in mind for overcoming biases and you'll be on your way. DAVE: Congratulations on finishing this course from the Google UX Design Certificate. You can access the full experience, including job search help, and start to earn your certificate by clicking on the icon or the link in the description below. Watch the next video in the course by clicking here and subscribe to our channel for more from upcoming
 ```
-Agile Team Structure: Product Manager
-
+# Agile Team Structure: Product Manager
+Site:instagram.com "Beautyinfluencer" "gmail.com"
 
 A Product Manager, also commonly known in modern tech lingo as a PM, is responsible for driving the vision, overall strategy, design, and execution of a product. This includes doing market research, competitive analysis, checking out customer feedback, and making sure that the team’s day to day are aligned with the business objectives. The Product Manager is also responsible for defining the product vision and making strategic decisions about pricing, positioning, and target markets.
 
@@ -910,6 +878,7 @@ are and i will see you next time bye
 [Music]
 you
 ```
+
 # Agile Team Structure: Product Designer/ UI-UX Designer
 OK, let’s start by revisiting the terms UX and UI, and then we can delve into the role of product design.
 
@@ -2370,6 +2339,7 @@ want to smash the like button and I'll
 see you in the next video
 
 ```
+
 # Agile Team Structure: Fullstack Software Engineer
 
 
@@ -2583,6 +2553,7 @@ thank you so much for watching and
 peace out as always everybody
 
 ```
+
 # Agile Team Structure: Mobile Software Engineer
 ![alt text](image-7.png)
 
@@ -3038,6 +3009,7 @@ such videos turn it up and get certified
 in cloud computing click here
 
 ```
+
 # Agile Team Structure: Data Analyst
 ![alt text](image-9.png)
 
