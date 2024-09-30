@@ -588,6 +588,7 @@ So take care everybody
 and we'll see you next time.
 
 ```
+
 # Opportunity Area: Cloud Computing
 Cloud computing is a global trend that has revolutionized the way businesses and individuals access, store, and process data. It refers to the delivery of computing services over the internet, including software, storage, and processing power, instead of relying on local infrastructure or personal computers.
 
@@ -723,6 +724,7 @@ and data centers so you can focus
 on what matter most to your business.
 
 ```
+
 # Cloud Computing in Action
 Great examples of cloud computing include:
 
@@ -1118,6 +1120,7 @@ never miss an update on the latest
 trending technologies
 you
 ```
+
 # Opportunity Area: Apps & Tools
 
 
@@ -1431,6 +1434,7 @@ Thank you very much.
 (Applause)
 
 ```
+
 # The Future of AI
 As it revolutionizes and changes our world as we know it for the better, AI also poses some concerns to the general society. Many are worried about the security of their jobs and the significant part that AI will play in our daily lives.
 
