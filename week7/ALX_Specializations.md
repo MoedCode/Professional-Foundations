@@ -71,3 +71,17 @@ Reflect on the prompts below!
 What did you find most exciting from the conversation with your peers? Why?
 Which of the ALX track did you find most exciting? What did your peers have to say about it?
 On a piece of paper, or your computer, write down 3 key takeaways / insights on how technology can help you solve / build solutions for the GCGOs?
+
+# ALX Back-End Web Development Overview
+
+
+Let’s discuss Back End Web Development!
+The Back-End Web Development Program will transform you into a job-ready developer. But why should you consider this program?
+
+Back-End Web Development is vital for web functionality and offers numerous career opportunities. The demand for skilled back-end developers is increasing as businesses need strong server-side solutions for their web applications. This demand results in excellent job prospects and attractive salaries.
+
+As technology evolves, back-end developers play a crucial role in ensuring web services’ smooth operation and security.
+
+ALX Back-End Web Development Program equips you with the skills to manage servers, guarantee security, and handle data storage, enabling you to create powerful applications from scratch. Having these skills will open you up to numerous opportunities in the tech industry.
+
+For a detailed overview, download and read the [Back-End Web Development Program Overview](https://intranet.alxswe.com/rltoken/0NRq_cwFE1FrFlm4tvjpvw). It includes the program layout, various sprints, and what you can expect to learn during the program.
