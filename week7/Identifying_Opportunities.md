@@ -40,6 +40,7 @@ Let’s start with Data Analytics! Take time to watch these next two videos to l
 What is Data Analytics
 What a Data Analysts role entails
 The skills needed to become a data analyst
+
 ***Desorption***
 ```md
 What Is Data Analytics? - An Introduction (Full Guide)
@@ -856,6 +857,7 @@ good lock on your data science Journey
 
 ```
 What Does a Data Scientist Do?
+
 ***Desorption***
 ```md
 What Does a Data Scientist Actually Do?
