@@ -2,7 +2,7 @@
 As you begin your identity as a young professional, your personal branding matters! In today’s highly digitized economy, there is leverage when you present your credentials online in a way that “sells”.
 
 In the next few modules, we will explore various attributes that help shape your personal brand as a young tech professional. But before we start, do you remember the self exploration exercise we did in Week 2? Where you defined your values and vision? It’s time to review that again, as the work you did there will help you create your professional profile here as well!
-![alt text](image.png)
+![alt text](image4.png)
 
 
 # Building Your Confidence
@@ -250,7 +250,7 @@ Here’s an example:
 
 Now that you know what it is, let’s write one for yourself. Remember, a lot of what you reflected on in Week 2’s mission setting exercise and this week’s elevator pitch creation, will be used here, so you’re not starting from scratch!
 
-![alt text](image-1.png)
+![alt text](image-5.png)
 
 # Example: Professional Bio
 Following are a few examples of how you can structure your professional bio. You’ll see that some of these follow the template we shared more closely than others, and that’s fine. You must keep in mind that the ultimate goal is to impress and provide and introduction of yourself.
