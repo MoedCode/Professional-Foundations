@@ -1,7 +1,5 @@
-To help you enhance your CV, I can format it to include bullet points, action verbs, and measurable achievements, following the guidelines we've discussed. Here’s a revision based on the structure of your current CV:
 
----
-
+![alt text](aaa.jpg)
 ### **Mohamed Mahmoud**
 **Python Developer**
 [LinkedIn](https://www.linkedin.com/in/mohamed-mahmoud-4874b41b0/) | [GitHub](https://github.com/MoedCode)
